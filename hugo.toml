@@ -1,4 +1,4 @@
-baseURL = 'https://shady-hisham-gheith.github.io/Portfolio/'
+baseURL = 'https://shadygheith.github.io/Portfolio/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "terminal"
